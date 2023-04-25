@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/plans"
+        android:icon="@drawable/ic_plans"
+        android:title="计划"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/review"
+        android:icon="@drawable/ic_review"
+        android:title="复盘"
+        app:showAsAction="ifRoom" />
+
+</menu>

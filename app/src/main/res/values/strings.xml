@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taskus</string>
+    <string name="tabLayout">计划类型选择</string>
+    <string name="daily">日计划</string>
+    <string name="weekly">周计划</string>
+    <string name="monthly">月计划</string>
+    <string name="phase">阶段性计划</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
