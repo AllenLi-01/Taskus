@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2023 Allen Li
+  ~
+  ~ All rights reserved.
+  ~
+  ~ This software is the property of Allen Li and is protected by copyright,
+  ~ trademark, and other intellectual property laws. You may not reproduce, modify,
+  ~ distribute, or create derivative works based on this software, in whole or in part,
+  ~ without the express written permission of Allen Li.
+  -->
+
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
     <background android:drawable="@drawable/ic_launcher_background" />
     <foreground android:drawable="@drawable/ic_launcher_foreground" />
